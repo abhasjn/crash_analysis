@@ -1,0 +1,11 @@
+{
+    "charges_data": "data/Charges_use.csv",
+    "damages_data": "data/Damages_use.csv",
+    "endorse_data": "data/Endorse_use.csv",
+    "primary_person_data": "data/Primary_Person_use.csv",
+    "restrict_data": "data/Restrict_use.csv",
+    "units_data": "data/Units_use.csv",
+    "java": {
+        "java_home": "D:\\openjdk-22.0.1_windows-x64_bin\\jdk-22.0.1"
+      }
+}

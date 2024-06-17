@@ -1,0 +1,5 @@
+Analysis No.,description,value
+1,The number of crashes (accidents) in which number of males killed are greater than 2 is :,0
+2,The number of two-wheelers booked for crashes (accidents): ,784
+4,The number of Vehicles with a driver having valid licences involved in hit-and-run is:,2569
+9,Count of Distinct Crash IDs where No Damaged Property was observed and Damage Level (VEH_DMAG_SCL~) is above 4 and car avails Insurance is:,11

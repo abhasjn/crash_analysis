@@ -1,0 +1,9 @@
+{
+    "single_value_answers": "output/single_value_answers.csv",
+    "analysis_result_3": "output/analysis_3.csv",
+    "analysis_result_5": "output/analysis_5.csv",
+    "analysis_result_6": "output/analysis_6.csv",
+    "analysis_result_7": "output/analysis_7.csv",
+    "analysis_result_8": "output/analysis_8.csv",
+    "analysis_result_10": "output/analysis_10.csv"
+}
